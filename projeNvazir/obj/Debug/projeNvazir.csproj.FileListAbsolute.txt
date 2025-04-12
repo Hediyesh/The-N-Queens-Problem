@@ -1,0 +1,21 @@
+C:\Users\ASUS\source\repos\projeNvazir\projeNvazir\bin\Debug\projeNvazir.exe.config
+C:\Users\ASUS\source\repos\projeNvazir\projeNvazir\bin\Debug\projeNvazir.exe
+C:\Users\ASUS\source\repos\projeNvazir\projeNvazir\bin\Debug\projeNvazir.pdb
+C:\Users\ASUS\source\repos\projeNvazir\projeNvazir\obj\Debug\projeNvazir.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\projeNvazir\projeNvazir\obj\Debug\projeNvazir.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\projeNvazir\projeNvazir\obj\Debug\projeNvazir.exe
+C:\Users\ASUS\source\repos\projeNvazir\projeNvazir\obj\Debug\projeNvazir.pdb
+D:\bre be git\repos\projeNvazir\projeNvazir\bin\Debug\projeNvazir.exe.config
+D:\bre be git\repos\projeNvazir\projeNvazir\bin\Debug\projeNvazir.exe
+D:\bre be git\repos\projeNvazir\projeNvazir\bin\Debug\projeNvazir.pdb
+D:\bre be git\repos\projeNvazir\projeNvazir\obj\Debug\projeNvazir.csprojAssemblyReference.cache
+D:\bre be git\repos\projeNvazir\projeNvazir\obj\Debug\projeNvazir.csproj.CoreCompileInputs.cache
+D:\bre be git\repos\projeNvazir\projeNvazir\obj\Debug\projeNvazir.exe
+D:\bre be git\repos\projeNvazir\projeNvazir\obj\Debug\projeNvazir.pdb
+D:\bre be git\proje o tamrina\projeNvazir\projeNvazir\bin\Debug\projeNvazir.exe.config
+D:\bre be git\proje o tamrina\projeNvazir\projeNvazir\bin\Debug\projeNvazir.exe
+D:\bre be git\proje o tamrina\projeNvazir\projeNvazir\bin\Debug\projeNvazir.pdb
+D:\bre be git\proje o tamrina\projeNvazir\projeNvazir\obj\Debug\projeNvazir.csprojAssemblyReference.cache
+D:\bre be git\proje o tamrina\projeNvazir\projeNvazir\obj\Debug\projeNvazir.csproj.CoreCompileInputs.cache
+D:\bre be git\proje o tamrina\projeNvazir\projeNvazir\obj\Debug\projeNvazir.exe
+D:\bre be git\proje o tamrina\projeNvazir\projeNvazir\obj\Debug\projeNvazir.pdb
